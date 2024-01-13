@@ -1,0 +1,16 @@
+# requirements.txt
+
+# Tkinter
+tkinter
+
+# tkVideoPlayer
+tkVideoPlayer
+
+# numpy
+numpy
+
+# tensorflow
+tensorflow
+
+# OpenCV
+opencv-python
