@@ -1,0 +1,2 @@
+TensorFlow: 2.11.0
+Flops: 187,924,863
