@@ -5,3 +5,5 @@
 ![Alt text](< UI Images/ file selector image.png>)
 
 ![Alt text](< UI Images/ result image.png>)
+
+![Alt text](< UI Images/ Video opening image.png>)
