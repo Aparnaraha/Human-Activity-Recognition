@@ -509,7 +509,7 @@ def open_file():
         videoplayer = TkinterVideo(root, scaled=True)
         videoplayer.load(r"{}".format(filename))
         # videoplayer.config(width=50, height=650)
-        videoplayer.place(x=470, y=420, width=600, height=390)
+        videoplayer.place(x=650, y=550, width=650, height=400)
         videoplayer.play()
         #add_text_to_video()
 
